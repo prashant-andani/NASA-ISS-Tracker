@@ -1,6 +1,6 @@
 # NASA ISS Realtime Tracker
 <p align="center">
-  <img src="snapshot.png" width="600"/>
+  <img src="assets/snapshot.png" width="600"/>
 </p>
 
 # How to use?
